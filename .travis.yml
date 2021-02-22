@@ -8,7 +8,7 @@ branches:
 cache:
   directories:
   - node-modules
-  - src
+  - backend
 before_install:
 - npm update
 install:
