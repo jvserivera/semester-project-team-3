@@ -12,7 +12,6 @@ cache:
 before_install:
 - npm update
 install:
-- cd backend
 - npm install
 script:
 - npm run test
