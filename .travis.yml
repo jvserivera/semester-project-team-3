@@ -1,7 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-- node
+- node # esta opcion me usa el latest stable version of node
 branches:
   only:
   - main
